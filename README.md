@@ -1,1 +1,1 @@
-# 3d-bounding-box-annotation-tool
+# A prototype python script for 3D bounding box annotation in CT images
